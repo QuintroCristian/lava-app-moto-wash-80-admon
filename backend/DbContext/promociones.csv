@@ -1,0 +1,17 @@
+ID_PROMOCION;DESCRIPCION;FECHA_INICIO;FECHA_FIN;PORCENTAJE;ESTADO
+1;Descuento de año nuevo;2025-01-01;2025-01-15;15.0;False
+2;Descuento día de san valentín;2024-02-14;2024-02-14;10.0;False
+3;Promoción de primavera;2024-03-21;2024-04-21;12.5;False
+4;Descuento por cumpleaños;;;20.0;False
+5;Descuento Día de las Madres;2024-05-10;2024-05-10;25.0;False
+6;Promoción lavado premium;2024-06-01;2024-08-31;15.0;False
+7;Happy hour matutino;;;10.0;False
+8;Descuento clientes frecuentes;;;18.0;False
+9;Promoción black friday;2024-11-29;2024-11-29;30.0;False
+10;Navidad y fin de año;2024-12-15;2024-12-31;20.0;False
+11;Nuevo;;;19.0;False
+12;Nuevo;;;19.0;False
+13;Nuevo;;;19.0;False
+14;Nuevo;;;19.0;False
+15;Nuevo;;;19.0;False
+16;Scooter;2024-12-01;2025-12-31;10.0;True

@@ -1,0 +1,8 @@
+ID_SERVICIO;NOMBRE;TIPO_SERVICIO;CATEGORIA;GRUPO;PRECIO
+1000;Lavada general;General;Moto;101;30000.0
+1000;Lavada general;General;Moto;102;35000.0
+1000;Lavada general;General;Moto;103;45000.0
+1000;Lavada general;General;Auto;201;40000.0
+1000;Lavada general;General;Auto;202;40000.0
+1000;Lavada general;General;Auto;203;50000.0
+1000;Lavada general;General;Cuatrimoto;301;50000.0

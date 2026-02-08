@@ -1,0 +1,26 @@
+ID_SERVICIO;NOMBRE;TIPO_SERVICIO;CATEGORIA;PRECIO_VARIABLE;VARIABLE;PRECIO_BASE
+5019;Lavada vapor motos;Adicional;Moto;False;;20000.0
+5019;Lavada vapor motos;Adicional;Cuatrimoto;False;;20000.0
+5020;Lavada motor carro a vapor;Adicional;Auto;False;;70000.0
+5021;Lavada motor vapor camioneta;Adicional;Auto;False;;90000.0
+5022;Desengrasante;Adicional;Moto;True;und;7000.0
+5022;Desengrasante;Adicional;Cuatrimoto;True;und;7000.0
+5023;Limpieza kit arrastre;Adicional;Moto;False;;12000.0
+5024;Desmanchada;Adicional;Moto;False;;10000.0
+5025;Limpieza guardacadena;Adicional;Moto;True;und;8000.0
+5026;Limpieza tapa piñon moto pequeña;Adicional;Moto;False;;7000.0
+5027;Limpieza tapa piñon moto grande;Adicional;Moto;False;;10000.0
+5028;Tapa pechera moto pequeña;Adicional;Moto;False;;7000.0
+5029;Tapa pechera moto grande;Adicional;Moto;False;;10000.0
+5030;Hora extra de lavado moto pequeña;Adicional;Moto;False;;20000.0
+5031;Hora extra de lavado moto mediana;Adicional;Moto;False;;25000.0
+5032;Hora extra de lavado moto grande;Adicional;Moto;False;;30000.0
+5033;Restauracion herzt pequeña;Adicional;Moto;False;;30000.0
+5034;Restauracion herzt moto mediana;Adicional;Moto;False;;60000.0
+5035;Restauracion herzt grande;Adicional;Moto;False;;120000.0
+5036;Mantenimiento hertz pequeña;Adicional;Moto;False;;10000.0
+5037;Mantenimiento hertz mediana;Adicional;Moto;False;;15000.0
+5038;Mantenimiento hertz grande;Adicional;Moto;False;;20000.0
+5039;Desarmada de moto pequeña;Adicional;Moto;False;;60000.0
+5040;Desarmada de moto mediana;Adicional;Moto;False;;80000.0
+5041;Desarmada de moto grande;Adicional;Moto;False;;120000.0

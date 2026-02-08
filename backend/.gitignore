@@ -1,0 +1,7 @@
+# ...existing code...
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+# ...existing code...

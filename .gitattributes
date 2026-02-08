@@ -1,0 +1,19 @@
+# Establecer el comportamiento predeterminado para todos los archivos
+* text=auto
+
+# Scripts de Windows deben usar CRLF
+*.bat text eol=crlf
+*.cmd text eol=crlf
+
+# Scripts de Unix deben usar LF
+*.sh text eol=lf
+
+# Archivos de Python
+*.py text eol=lf
+
+# Archivos de frontend
+*.js text eol=lf
+*.jsx text eol=lf
+*.ts text eol=lf
+*.tsx text eol=lf
+*.json text eol=lf
